@@ -1,0 +1,4 @@
+colour>=0.1.5
+numpy>=1.21.4
+plotly>=5.5.0
+sortedcontainers>=2.4.0
